@@ -1,14 +1,10 @@
 
-<img src="https://camo.githubusercontent.com/bf2879d5bb6d5d1527ff5ec8953755d2773a330253fe2d8a5835bf807f26d332/68747470733a2f2f7777772e6269677363616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f46656174757265732d6f662d4d65726e2d737461636b2d646576656c6f706d656e742d73657276696365732d596f752d53686f756c642d4b6e6f772e706e67">
+<img src="https://camo.githubusercontent.com/cc7dfbde17251c945233532d40096f9c30897fa7e7c851766c496a636cb0f292/68747470733a2f2f7777772e6269677363616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f46656174757265732d6f662d4d65726e2d737461636b2d646576656c6f706d656e742d73657276696365732d596f752d53686f756c642d4b6e6f772e706e67">
 <h1 align="center">Hi 👋, I'm Muhammed Arshad S</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshadkmr&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-- 🔭 I’m currently working on *Learing Management System*
-
-- 🌱 I’m currently learning *NEST.js*
 
 - 💬 Ask me about *MERN*
 
